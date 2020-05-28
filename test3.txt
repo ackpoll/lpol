@@ -1,1 +1,3 @@
 Jest to trzeci plik testowy.
+
+Jeszcze jedna linia testowa.
